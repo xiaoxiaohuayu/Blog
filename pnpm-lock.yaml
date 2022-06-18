@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@vuepress/client': ^2.0.0-beta.48
+  '@vuepress/client': ^2.0.0-beta.42
   vue: ^3.2.36
-  vuepress: ^2.0.0-beta.48
-  vuepress-theme-hope: ^2.0.0-beta.83
+  vuepress: ^2.0.0-beta.47
+  vuepress-theme-hope: ^2.0.0-beta.80
 
 devDependencies:
   '@vuepress/client': 2.0.0-beta.48
@@ -1361,7 +1361,7 @@ packages:
   /@types/sax/1.2.4:
     resolution: {integrity: sha512-pSAff4IAxJjfAXUG6tFkO7dsSbTmf8CtUpfhhZ5VhkRpC4628tJhh3+V6H1E+/Gs9piSzYKT5yzHO5M4GG9jkw==}
     dependencies:
-      '@types/node': 17.0.45
+      '@types/node': 18.0.0
     dev: true
 
   /@types/trusted-types/2.0.2:
