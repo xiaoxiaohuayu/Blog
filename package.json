@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "hao",
+  "main": "index.js",
+  "repository": "git@github.com:xiaoxiaohuayu/Blog.git",
+  "author": "haozexiang <1521183864@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "docs:dev": "vuepress dev docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.48",
+    "@vuepress/client": "^2.0.0-beta.48",
+    "vue": "^3.2.36",
+    "vuepress-theme-hope": "^2.0.0-beta.83"
+  }
+}
