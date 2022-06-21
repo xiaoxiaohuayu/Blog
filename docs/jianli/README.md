@@ -5,3 +5,4 @@ icon: fa-thin fa-user
 category:
   - 个人简历
 ---
+<PDF url="./pdf.pdf" />
